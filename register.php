@@ -1,0 +1,1 @@
+Fatal error: Uncaught Exception: Invalid delivery option. in /home/lpktechn/phortay.lpk-technology.com/school_project/user/new_student_place_order.php:62 Stack trace: #0 {main} thrown in /home/lpktechn/phortay.lpk-technology.com/school_project/user/new_student_place_order.php on line 62
